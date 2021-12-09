@@ -20,3 +20,9 @@ https://www.nist.gov/el/enhancing-maintenance-strategies-manufacturing-operation
 
 This is a dataset from Case Western Reserve University. It's a single dataset of bearing failures: <br>
 https://engineering.case.edu/bearingdatacenter
+
+5. Robot Execution Failure Data set
+
+This dataset is from UC Irvine Machine Learning Lab and contains force and torque measurements on a robot after failure detection. Each failure is characterized by 15 force/torque samples collected at regular time intervals
+
+http://archive.ics.uci.edu/ml/datasets/Robot+Execution+Failures
